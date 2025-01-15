@@ -43,5 +43,6 @@ Developed an interactive Power BI dashboard incorporating slicers, bar charts, l
 Provided insights on trends, outlet performance, and influential factors like outlet type and establishment year, offering recommendations to improve sales and optimize operations.
 
 ## 📊 Dashboard
-![image](https://github.com/user-attachments/assets/5e84ec71-9fe3-4dd2-b752-eaab8e1e4613)
+![Screenshot (29)](https://github.com/user-attachments/assets/33fda6a0-71af-4cbd-a5e0-cadc5f50acb1)
+
 
