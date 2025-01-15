@@ -30,11 +30,11 @@ This project showcases interactive and insightful visualizations created using P
 
 ## 🛠️ Process Steps
 
-**1.Data Cleaning:**
+1.**Data Cleaning:**
 - Cleaned the Blinkit dataset by removing duplicates, handling missing values, and formatting columns for consistency.
-- **Exploratory Data Analysis (EDA):**
+2.**Exploratory Data Analysis (EDA):**
 - Analyzed key metrics like total sales, average sales, outlet size, and ratings using Power BI’s built-in tools and visualizations.
-- **Dashboard Creation:**
+3.**Dashboard Creation:**
 - Created an interactive Power BI dashboard using features like slicers, bar charts, line graphs, and maps to visualize sales trends and outlet performance.
-- **Insights & Recommendations:**
+4.**Insights & Recommendations:**
 - Provided actionable insights on sales trends, outlet performance, and factors influencing success, such as outlet type and establishment year, to enhance business strategy.
