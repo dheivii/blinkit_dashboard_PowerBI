@@ -30,8 +30,6 @@ This project showcases interactive and insightful visualizations created using P
 
 ## 🛠️ Process Steps
 
-🛠️ Process Steps
-
 1.**Data Cleaning:**
 Cleaned the Blinkit dataset by removing duplicates, handling missing values, and ensuring consistency in column formats.
 
@@ -43,3 +41,7 @@ Developed an interactive Power BI dashboard incorporating slicers, bar charts, l
 
 4.**Insights & Recommendations:**
 Provided insights on trends, outlet performance, and influential factors like outlet type and establishment year, offering recommendations to improve sales and optimize operations.
+
+## 📊 Dashboard
+![image](https://github.com/user-attachments/assets/5e84ec71-9fe3-4dd2-b752-eaab8e1e4613)
+
