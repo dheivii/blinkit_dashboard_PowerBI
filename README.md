@@ -19,8 +19,8 @@ This project showcases interactive and insightful visualizations created using P
 
 📊 Dashboard Insights
 
-# Interactive Power BI dashboard created to visualize:
--Total sales across outlets.
+**Interactive Power BI dashboard created to visualize:**
+- Total sales across outlets.
 - Average sales and number of items sold.
 - Sales performance by outlet size and type.
 - Average ratings of products and outlets.
